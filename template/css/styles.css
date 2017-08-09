@@ -1,0 +1,65 @@
+.title:hover{
+	text-decoration:underline;
+}
+.navigation{
+	height:70px;
+	background-color:#0e88d6;
+	border-radius:10px;
+}
+.navigation ul li{
+	float:left;
+	list-style-type: none;
+}
+.navigation ul li a{
+	color:#d0f995;
+	padding:0 10px;
+	text-decoration:none;
+	line-height:70px;
+	display:block;
+	height:70px;
+}
+.navigation ul li a:hover{
+	background:#224377;
+	text-decoration:underline;
+}
+.views{
+	text-align:right;
+	margin-top:5px;
+}
+.views:hover{
+	text-decoration:underline;
+}
+.add-comment-link{
+	text-align:right;
+	padding-right:10px;
+}
+.add-comment-link:hover{
+	text-decoration:underline;
+}
+#add-comment-form{
+	margin-top:40px;
+	background-color:#6c7684;
+	display:none;
+}
+.comment:hover .icons{
+	display:block !important;
+}
+.icon{	
+	color:#8c9bcc;
+}
+.icon:hover{
+	text-decoration:none;
+	color:#4289f4;
+}
+.comment-icons{
+	padding-left:3%;
+}
+.comment-author{
+	color:#2b24e5;
+	font-size:13px;
+}
+.comment-author:hover{
+	font-size:14px;
+}
+
+
